@@ -112,9 +112,9 @@ Implemented complex queries (CTEs, Window Functions, and Subqueries) in MySQL to
 
 <h3 id="phase-3-python">Phase 3: Python EDA & Diagnostic Analysis</h3>
 
-**Statistical Health Check:** Analyzed distributions and identified **230 luxury outliers** peaking at ₹22,000/sqft in Mumbai.
-**Correlation Heatmap:** Discovered that **Location** and **Safety** have a higher impact on price than the number of amenities.
-**Visual Validation:** Used `Seaborn` to confirm that building value drops sharply once hitting the "Aging" stage.
+* **Statistical Health Check:** Analyzed distributions and identified **230 luxury outliers** peaking at ₹22,000/sqft in Mumbai.
+* **Correlation Heatmap:** Discovered that **Location** and **Safety** have a higher impact on price than the number of amenities.
+* **Visual Validation:** Used `Seaborn` to confirm that building value drops sharply once hitting the "Aging" stage.
 
 <h3 id="phase-4-powerbi">Phase 4: Power BI Storytelling</h3>
 
