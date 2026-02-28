@@ -2,7 +2,7 @@
 
 An end-to-end data intelligence pipeline that transforms 4,500+ messy property listings into actionable investment strategies using SQL, Python, and Power BI.
 
-**Detailed Project Analysis** [Click here to view Full Project Report (PDF)](./Indian Real Estate Investment & Risk Analytics Report.pdf)
+* 📜 **Detailed Project Analysis:** [Click here to view the Full Project Report (PDF)](./IndianRealEstateInvestment&RiskAnalyticsReport.pdf)
 ---
 
 ## 📖 Table of Contents
