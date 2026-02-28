@@ -31,6 +31,7 @@ This project solves the "Information Asymmetry" in the Indian Real Estate market
 ---
 
 <h2 id="problem-statement">❓ Problem Statement</h2>
+
 This project aims to transform raw, fragmented real-estate data into an Investment Intelligence Engine. Instead of just looking at prices, we analyze risk, space efficiency, and demographic demand to help investors make data-backed decisions.
 
 ---
@@ -38,12 +39,13 @@ This project aims to transform raw, fragmented real-estate data into an Investme
 <h2 id="dataset-information">📊 Dataset Information</h2>
 
 The data used in this project is sourced from Kaggle. It includes residential property listings across multiple Indian metropolitan regions for the year 2025.
-**Source:** [House Property Listings: 2025 Real Estate Data by Pratyush Puri](https://www.kaggle.com/datasets/pratyushpuri/pan-india-property-listings-2025-real-estate-data)
-**Scope:** 4,500+ Records, 8 Major Indian Cities.
+* **Source:** [House Property Listings: 2025 Real Estate Data by Pratyush Puri](https://www.kaggle.com/datasets/pratyushpuri/pan-india-property-listings-2025-real-estate-data)
+* **Scope:** 4,500+ Records, 8 Major Indian Cities.
 
 ---
 
 <h2 id="tools-used">🛠️ Tools Used</h2>
+
 - **Data Engineering:** Python (Pandas, NumPy), SQLAlchemy
 - **Database:** MySQL (Relational Schema, Window Functions, Joins, Subqueries, CTEs)
 - **Exploratory Data Analysis:** Python (Seaborn, Matplotlib)
