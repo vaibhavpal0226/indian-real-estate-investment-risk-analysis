@@ -62,6 +62,10 @@ The data used in this project is sourced from Kaggle. It includes residential pr
 
 ```
 ├── data/
+│   |── test_part1.csv
+|   |── test_part2.csv
+|   |── train_part1.csv
+|   └── train_part2.csv
 ├── logs/
 |   └── ingestion_db.log                   
 ├── scripts/
