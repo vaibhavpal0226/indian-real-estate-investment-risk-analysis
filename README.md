@@ -22,9 +22,9 @@ An end-to-end data intelligence pipeline that transforms 4,500+ messy property l
     * <a href="#phase-4-powerbi">Phase 4: Power BI Storytelling</a>
 7. <a href="#key-business-insights">Key Business Insights</a>
 8. <a href="#dashboard-previews">Dashboard Previews</a>
-9. <a href="#how-to-run-this-project">How to Run This Project</a>
-10. <a href="#final-recommendations">Final Recommendations</a>
-11. <a href="#detailed-report">Detailed Findings Report</a>
+9. <a href="#final-recommendations">Final Recommendations</a>
+10. <a href="#detailed-report">Detailed Findings Report</a>
+11. <a href="#how-to-run-this-project">How to Run This Project</a>
 12. <a href="#note-on-security">Note on Security</a>
 13. <a href="#author--contact">Author & Contact</a>
 
@@ -148,6 +148,20 @@ Built a 3-page interactive dashboard:
 
 ---
 
+<h2 id="final-recommendations">🏁 Final Recommendations</h2>
+
+* **For Investors:** Target "Rare Assets" (Low Density) in high-density cities like MMR for long-term appreciation.
+* **For Developers:** Focus on building "Studio/Bachelor" apartments in IT hubs to fill the demographic supply gap.
+* **For Buyers:** Prioritize RERA-registered "New" builds in Tier-2 cities for the best safety-to-price ratio.
+
+---
+
+<h2 id="detailed-report">📄 Detailed Findings Report</h2>
+
+*For a detailed breakdown of the findings, please refer to the [Indian Real Estate Investment & Risk Analytics Report](https://github.com/vaibhavpal0226/indian-real-estate-investment-risk-analysis/blob/main/Indian%20Real%20Estate%20Investment%20%26%20Risk%20Analytics%20Report.pdf).*
+
+---
+
 <h2 id="how-to-run-this-project">⚙️ How to Run This Project</h2>
 
 1. **Clone the Repository**
@@ -170,20 +184,6 @@ git clone https://github.com/yourusername/indian-real-estate-investment-risk-ana
 6. **Dashboard:**
    * Open `data_visualization.pbix` in **Power BI Desktop** to explore the interactive report.
    * **Note:** To view the Power BI dashboard with your data, go to **Transform Data > Data Source Settings** and update the server/database to match your local MySQL environment.
-
----
-
-<h2 id="final-recommendations">🏁 Final Recommendations</h2>
-
-* **For Investors:** Target "Rare Assets" (Low Density) in high-density cities like MMR for long-term appreciation.
-* **For Developers:** Focus on building "Studio/Bachelor" apartments in IT hubs to fill the demographic supply gap.
-* **For Buyers:** Prioritize RERA-registered "New" builds in Tier-2 cities for the best safety-to-price ratio.
-
----
-
-<h2 id="detailed-report">📄 Detailed Findings Report</h2>
-
-*For a detailed breakdown of the findings, please refer to the [Indian Real Estate Investment & Risk Analytics Report](https://github.com/vaibhavpal0226/indian-real-estate-investment-risk-analysis/blob/main/Indian%20Real%20Estate%20Investment%20%26%20Risk%20Analytics%20Report.pdf).*
 
 ---
 
