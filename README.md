@@ -154,7 +154,6 @@ Built a 3-page interactive dashboard:
 Open your terminal or command prompt and run:
 ```bash
 git clone [https://github.com/YourUsername/indian-real-estate-investment-risk-analysis.git](https://github.com/vaibhavpal0226/indian-real-estate-investment-risk-analysis.git)
-   cd indian-real-estate-investment-risk-analysis
 ```
 
 2. **Database Setup:**
