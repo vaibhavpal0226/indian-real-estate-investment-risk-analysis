@@ -186,7 +186,7 @@ Database credentials have been removed for security. Users can replicate the env
 
 <h2 id="author--contact">👤 Author & Contact</h2>
 
-**Vaibhav Pal**
+**Vaibhav Pal** <br>
 Aspiring Data Analyst
 * Email: vaibhav2021official@gmail.com
 * LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/vaibhav-pal-ab856b390)
