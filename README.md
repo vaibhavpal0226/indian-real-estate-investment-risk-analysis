@@ -54,6 +54,7 @@ The data used in this project is sourced from Kaggle. It includes residential pr
 ---
 
 <h2 id="project-structure">📂 Project Structure</h2>
+
 ```
 ├── data/
 ├── logs/
@@ -80,6 +81,7 @@ The data used in this project is sourced from Kaggle. It includes residential pr
 <h2 id="technical-workflow">🏗️ Technical Workflow</h2>
 
 <h3 id="phase-1-engineering">Phase 1: Data & Feature Engineering</h3>
+
 **Ingestion:** Developed a Python script with `SQLAlchemy` and `logging` to migrate raw CSVs to MySQL using a standardized `snake_case` schema.
 **Data Wrangling:** Unified 4,500+ records using `UNION ALL` and handled duplicates via a **Composite Key Strategy** (City + Locality + Price + Area).
 **Smart Imputation:** * Recovered missing City data via Locality cross-referencing.
@@ -92,17 +94,20 @@ The data used in this project is sourced from Kaggle. It includes residential pr
     * `low_density_premium`: Flags "Rare Assets" in high-demand urban zones.
 
 <h3 id="phase-2-sql">Phase 2: SQL Business Logic</h3>
+
 Implemented complex queries (CTEs, Window Functions, and Subqueries) in MySQL to solve 10 critical business questions, including:
 * Ranking the **Top 3 Properties per City** based on Safety, Modernity, and Price.
 * Calculating the **Price Premium** for "Ultra-Modern" features vs. "Basic" homes.
 * Identifying **"Infrastructure Gaps"** (e.g., Luxury homes missing secure parking).
 
 <h3 id="phase-3-python">Phase 3: Python EDA & Diagnostic Analysis</h3>
+
 **Statistical Health Check:** Analyzed distributions and identified **230 luxury outliers** peaking at ₹22,000/sqft in Mumbai.
 **Correlation Heatmap:** Discovered that **Location** and **Safety** have a higher impact on price than the number of amenities.
 **Visual Validation:** Used `Seaborn` to confirm that building value drops sharply once hitting the "Aging" stage.
 
 <h3 id="phase-4-powerbi">Phase 4: Power BI Storytelling</h3>
+
 Built a 3-page interactive dashboard:
 1.  **Market Overview:** Geospatial capital allocation and inventory segments.
 2.  **Risk & Lifecycle:** Visualizing "High Risk" pockets, infrastructure gaps and structural life stages.
@@ -111,6 +116,7 @@ Built a 3-page interactive dashboard:
 ---
 
 <h2 id="key-business-insights">📈 Key Business Insights</h2>
+
 - **Ahmedabad** emerged as the top value-for-money city with the highest "Safety-to-Price" ratio.
 - Discovered an undersupply of **Bachelor/Studio units** in IT hubs, where inventory is 3x more geared toward large families.
 - Identified a **20% High-Risk concentration** in real estate market.
@@ -158,6 +164,7 @@ cd YOUR_REPO_NAME
 ---
 
 <h2 id="final-recommendations">🏁 Final Recommendations</h2>
+
 * **For Investors:** Target "Rare Assets" (Low Density) in high-density cities like MMR for long-term appreciation.
 * **For Developers:** Focus on building "Studio/Bachelor" apartments in IT hubs to fill the demographic supply gap.
 * **For Buyers:** Prioritize RERA-registered "New" builds in Tier-2 cities for the best safety-to-price ratio.
@@ -165,11 +172,13 @@ cd YOUR_REPO_NAME
 ---
 
 <h2 id="detailed-report">📄 Detailed Findings Report</h2>
+
 *For a detailed breakdown of the findings, please refer to the [Indian Real Estate Investment & Risk Analytics Report.pdf](link-pdf).*
 
 ---
 
 <h2 id="note-on-security">🔒 Note on Security</h2>
+
 Database credentials have been removed for security. Users can replicate the environment by substituting their own credentials in the connection strings.
 
 ---
@@ -178,8 +187,8 @@ Database credentials have been removed for security. Users can replicate the env
 
 **Vaibhav Pal**
 Aspiring Data Analyst
-Email: vaibhav2021official@gmail.com
-LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/vaibhav-pal-ab856b390)
-Portfolio: [Link to your website or GitHub Profile](https://github.com/vaibhavpal0226)
+* Email: vaibhav2021official@gmail.com
+* LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/vaibhav-pal-ab856b390)
+* Portfolio: [Link to your website or GitHub Profile](https://github.com/vaibhavpal0226)
 
 ---
