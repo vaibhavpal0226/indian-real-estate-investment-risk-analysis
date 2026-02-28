@@ -3,6 +3,10 @@
 An end-to-end data intelligence pipeline that transforms 4,500+ messy property listings into actionable investment strategies using SQL, Python, and Power BI.
 
 * 📜 **Detailed Project Analysis:** [Click here to view the Full Project Report (PDF)](https://github.com/vaibhavpal0226/indian-real-estate-investment-risk-analysis/blob/main/Indian%20Real%20Estate%20Investment%20%26%20Risk%20Analytics%20Report.pdf)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Power_BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ---
 
 ## 📖 Table of Contents
