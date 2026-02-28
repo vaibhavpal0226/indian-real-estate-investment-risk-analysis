@@ -36,6 +36,7 @@ This project aims to transform raw, fragmented real-estate data into an Investme
 ---
 
 <h2 id="dataset-information">📊 Dataset Information</h2>
+
 The data used in this project is sourced from Kaggle. It includes residential property listings across multiple Indian metropolitan regions for the year 2025.
 **Source:** [House Property Listings: 2025 Real Estate Data by Pratyush Puri](https://www.kaggle.com/datasets/pratyushpuri/pan-india-property-listings-2025-real-estate-data)
 **Scope:** 4,500+ Records, 8 Major Indian Cities.
