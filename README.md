@@ -83,11 +83,14 @@ The data used in this project is sourced from Kaggle. It includes residential pr
 <h3 id="phase-1-engineering">Phase 1: Data & Feature Engineering</h3>
 
 **Ingestion:** Developed a Python script with `SQLAlchemy` and `logging` to migrate raw CSVs to MySQL using a standardized `snake_case` schema.
+
 **Data Wrangling:** Unified 4,500+ records using `UNION ALL` and handled duplicates via a **Composite Key Strategy** (City + Locality + Price + Area).
+
 **Smart Imputation:** 
     * Recovered missing City data via Locality cross-referencing.
     * Imputed Bathrooms/Parking using **Median/Mode logic** based on BHK and Building Type.
     * Resolved Latitude/Longitude using a **City-Centroid Imputation Strategy**.
+    
 **Feature Engineering:** Created 10+ custom features, including:
     * `safety_rating`: Proprietary score (Verified, Caution, High Risk) based on RERA, age, and land-overlap.
     * `price_deviation_pct`: Identifies "Bargains" (15% below locality average).
