@@ -153,8 +153,7 @@ Built a 3-page interactive dashboard:
 1. **Clone the Repository**
 Open your terminal or command prompt and run:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-cd YOUR_REPO_NAME
+git clone [https://github.com/YOUR_USERNAME/indian-real-estate-investment-risk-analysis.git](https://github.com/YOUR_USERNAME/Yindian-real-estate-investment-risk-analysis.git)
 ```
 2. **Database Setup:**
    * Create a MySQL database named `estate`.
