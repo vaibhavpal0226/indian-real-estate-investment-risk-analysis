@@ -174,7 +174,7 @@ cd YOUR_REPO_NAME
 
 <h2 id="detailed-report">📄 Detailed Findings Report</h2>
 
-*For a detailed breakdown of the findings, please refer to the [Indian Real Estate Investment & Risk Analytics Report.pdf](link-pdf).*
+*For a detailed breakdown of the findings, please refer to the [Indian Real Estate Investment & Risk Analytics Report.pdf](Indian Real Estate Investment & Risk Analytics Report.pdf).*
 
 ---
 
