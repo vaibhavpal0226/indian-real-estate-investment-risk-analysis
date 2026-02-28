@@ -2,6 +2,7 @@
 
 An end-to-end data intelligence pipeline that transforms 4,500+ messy property listings into actionable investment strategies using SQL, Python, and Power BI.
 
+**Detailed Project Analysis** [Click here to view Full Project Report (PDF)](./Indian Real Estate Investment & Risk Analytics Report.pdf)
 ---
 
 ## 📖 Table of Contents
@@ -174,7 +175,7 @@ cd YOUR_REPO_NAME
 
 <h2 id="detailed-report">📄 Detailed Findings Report</h2>
 
-*For a detailed breakdown of the findings, please refer to the (https://github.com/vaibhavpal0226/indian-real-estate-investment-risk-analysis/blob/main/Indian%20Real%20Estate%20Investment%20%26%20Risk%20Analytics%20Report.pdf).*
+*For a detailed breakdown of the findings, please refer to the [Indian Real Estate Investment & Risk Analytics Report](https://github.com/vaibhavpal0226/indian-real-estate-investment-risk-analysis/blob/main/Indian%20Real%20Estate%20Investment%20%26%20Risk%20Analytics%20Report.pdf).*
 
 ---
 
@@ -189,7 +190,7 @@ Database credentials have been removed for security. Users can replicate the env
 **Vaibhav Pal** <br>
 Aspiring Data Analyst
 * Email: vaibhav2021official@gmail.com
-* LinkedIn: (www.linkedin.com/in/vaibhav-pal-ab856b390)
-* Portfolio: (https://github.com/vaibhavpal0226)
+* LinkedIn: www.linkedin.com/in/vaibhav-pal-ab856b390
+* Portfolio: https://github.com/vaibhavpal0226
 
 ---
