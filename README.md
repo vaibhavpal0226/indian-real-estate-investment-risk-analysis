@@ -198,7 +198,7 @@ Database credentials have been removed for security. Users can replicate the env
 **Vaibhav Pal** <br>
 Aspiring Data Analyst
 * Email: vaibhav2021official@gmail.com
-* LinkedIn: www.linkedin.com/in/vaibhav-pal-ab856b390
+* LinkedIn: https://www.linkedin.com/in/vaibhav-pal26/
 * Portfolio: https://github.com/vaibhavpal0226
 
 ---
