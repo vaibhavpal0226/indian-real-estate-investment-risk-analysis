@@ -56,7 +56,7 @@ The data used in this project is sourced from Kaggle. It includes residential pr
 - **Exploratory Data Analysis:** Python (Seaborn, Matplotlib)
 - **Business Intelligence:** Power BI (DAX, Interactive Storytelling)
 
-Domain,Tools & Technologies,Key Techniques
+| Domain | Tools & Technologies | Key Techniques |
 Data Engineering,,"Automated Ingestion, SQLAlchemy, Data Imputation (NumPy), Feature Engineering"
 Database,,"Relational Schema, CTEs, Window Functions, Complex Joins, Subqueries"
 Data Visualization,,"EDA, Correlation Heatmaps, Outlier Detection, Distribution Analysis"
