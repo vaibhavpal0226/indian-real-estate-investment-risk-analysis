@@ -51,17 +51,12 @@ The data used in this project is sourced from Kaggle. It includes residential pr
 
 <h2 id="tools-used">🛠️ Tools Used</h2>
 
-- **Data Engineering:** Python (Pandas, NumPy), SQLAlchemy
-- **Database:** MySQL (Relational Schema, Window Functions, Joins, Subqueries, CTEs)
-- **Exploratory Data Analysis:** Python (Seaborn, Matplotlib)
-- **Business Intelligence:** Power BI (DAX, Interactive Storytelling)
-
 | Domain | Tools & Technologies | Purpose |
 | :--- | :--- | :--- |
-| Data Engineering | VARCHAR | Automated Ingestion, SQLAlchemy, Data Imputation, Feature Engineering |
-| Database | VARCHAR | Relational Schema, CTEs, Window Functions, Subqueries |
-| Data Visualization | DECIMAL | EDA, Correlation Heatmaps, Outlier Detection, Distribution Analysis |
-| Business Intelligence | DECIMAL | DAX Measures, Interactive Storytelling, Dynamic Ranking, Stakeholder Dashboards |
+| Data Engineering | Python (Pandas, NumPy) | Automated Ingestion, SQLAlchemy, Data Imputation, Feature Engineering |
+| Database | MySQL | Relational Schema, CTEs, Window Functions, Subqueries |
+| Data Visualization | Python (Seaborn, Matplotlib) | EDA, Correlation Heatmaps, Outlier Detection, Distribution Analysis |
+| Business Intelligence | Power BI | DAX Measures, Interactive Storytelling, Dynamic Ranking, Stakeholder Dashboards |
 
 ---
 
