@@ -71,20 +71,20 @@ The data used in this project is sourced from Kaggle. It includes residential pr
 ├── logs/
 |   └── ingestion_db.log                   
 ├── scripts/
-│   └── ingestion_db.py            # Python script for SQL migration & logging
+│   └── ingestion_db.py                                           # Python script for SQL migration & logging
 ├── notebooks/
-│   ├── data_and_feature_engineering.ipynb    # Cleaning & Feature Engineering
-│   └── python_exploratory_data_analysis.ipynb     # Diagnostic & Visual Analysis
+│   ├── data_and_feature_engineering.ipynb                        # Cleaning & Feature Engineering
+│   └── python_exploratory_data_analysis.ipynb                    # Diagnostic & Visual Analysis
 ├── sql/
-│   └── sql_exploratory_data_analysis.sql          # Business logic & 10 analytical questions
+│   └── sql_exploratory_data_analysis.sql                         # Business logic & 10 analytical questions
 ├── dashboard/
-│   └── data_visualization.pbix   # Multi-page Power BI Dashboard
+│   └── data_visualization.pbix                                   # Multi-page Power BI Dashboard
 ├── images/
 │   |── dashboard1.png
 |   |── dashboard2.png
 |   └── dashboard3.png  
-├── Indian Real Estate Investment & Risk Analytics Report.pdf          # Detailed analytical documentation
-└── README.md                   # Project documentation
+├── Indian Real Estate Investment & Risk Analytics Report.pdf     # Detailed analytical documentation
+└── README.md                                                     # Project documentation
 ```
 
 ---
