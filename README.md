@@ -56,11 +56,12 @@ The data used in this project is sourced from Kaggle. It includes residential pr
 - **Exploratory Data Analysis:** Python (Seaborn, Matplotlib)
 - **Business Intelligence:** Power BI (DAX, Interactive Storytelling)
 
-| Column Name | Data Type | Description |
+| Domain | Tools & Technologies | Purpose |
 | :--- | :--- | :--- |
-| listingid | VARCHAR | Unique ID for each property |
-| safety_rating | VARCHAR | Categorized as Safe, Caution, or High Risk |
-| price_inr | DECIMAL | Final price of the property |
+| Data Engineering | VARCHAR | Automated Ingestion, SQLAlchemy, Data Imputation, Feature Engineering |
+| Database | VARCHAR | Relational Schema, CTEs, Window Functions, Subqueries |
+| Data Visualization | DECIMAL | EDA, Correlation Heatmaps, Outlier Detection, Distribution Analysis |
+| Business Intelligence | DECIMAL | DAX Measures, Interactive Storytelling, Dynamic Ranking, Stakeholder Dashboards |
 
 ---
 
